@@ -46,4 +46,4 @@ This module supports Terraform 0.12.24
 
 ## Authors
 Module managed by 
-https://ghe.coxautoinc.com/Valentyn-Sheboldaiev
+https://w-e-ll.com
